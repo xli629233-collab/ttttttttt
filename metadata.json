@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 多种造型",
+  "description": "A 3D interactive Christmas tree made of photos and particles, controllable via hand gestures. Features video recording and album modes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
